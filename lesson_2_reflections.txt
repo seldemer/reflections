@@ -21,3 +21,9 @@ One situation is where you want to try an experimental change. Another would be 
 How do the diagrams help you visualize the branch structure?
 
 It gives a visual indication of reachability and any unreachable commits.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The merge combines the changes in all the commits on both branches, and adds a new commit to the current branch. The way it is represented in the diagram indicates that all of the commits from both branches still exist and are accessible in the current branch from now on.
+
