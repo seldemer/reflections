@@ -27,3 +27,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The merge combines the changes in all the commits on both branches, and adds a new commit to the current branch. The way it is represented in the diagram indicates that all of the commits from both branches still exist and are accessible in the current branch from now on.
 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pro is that Git's automatic merging speeds up the process as long as there are no conflicts. The con is that if there is a conflict, Git always punts and you have to resolve it manually.
