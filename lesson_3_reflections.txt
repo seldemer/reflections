@@ -23,3 +23,8 @@ You are able to work with it offline if you temporarily don't have internet acce
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You would have to collaborate by sharing files manually. This might be easier in not having to go through the process of pull requests and merges, but it would take much more time because you would have to wait for your collaborators to finish their changes first before you made more changes of your own (unless you wanted to try the difficult and risky process of manually merging the changes).
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You may want to make changes in a separate branch if you are making changes locally which will be part of a pull request on Github. Doing so allows your collaborators to check the changes before merging, but changing master directly has the advantage of being easier.
