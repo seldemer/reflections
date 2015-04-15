@@ -18,3 +18,8 @@ Branch: Make a new branch of commits in any repository that you have permission 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You are able to work with it offline if you temporarily don't have internet access.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would have to collaborate by sharing files manually. This might be easier in not having to go through the process of pull requests and merges, but it would take much more time because you would have to wait for your collaborators to finish their changes first before you made more changes of your own (unless you wanted to try the difficult and risky process of manually merging the changes).
