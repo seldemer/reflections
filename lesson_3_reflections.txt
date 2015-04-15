@@ -14,3 +14,7 @@ Fork: make a copy of someone's Github repository into your own Github account. U
 Clone: Copy a Github repository to local, or copy local to local. Use this when you don't need to link back to the original repository and/or push changes to it.
 Branch: Make a new branch of commits in any repository that you have permission to edit. Use this when you are trying a new change or addition to test it out, before merging.
 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You are able to work with it offline if you temporarily don't have internet access.
